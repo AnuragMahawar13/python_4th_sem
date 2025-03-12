@@ -1,4 +1,4 @@
-#program to print a decimal number into binary number using recursion
+#Q.18(a)program to print a decimal number into binary number using recursion
 
 def dec_to_bi(decimal_number):
     if(decimal_number==0):

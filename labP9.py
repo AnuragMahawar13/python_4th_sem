@@ -1,4 +1,4 @@
-#to find sum of digits of a number
+#Q.9 To find sum of digits of a number
 num=int(input("Enter a number:-"))
 res=0
 while(num>0):

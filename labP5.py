@@ -1,4 +1,4 @@
-#to check leap year or not 
+#Q.5 To check leap year or not 
 year=int(input("Enter a year"))
 if(year%400 == 0):
     print("Leap year")

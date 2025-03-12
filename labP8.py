@@ -1,4 +1,4 @@
-#to find factorial of a number
+#Q.8 To find factorial of a number
 num=int(input("Enter a number:-"))
 i=1
 res=1

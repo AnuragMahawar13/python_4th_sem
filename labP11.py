@@ -1,4 +1,4 @@
-#to find a number is palindrone or not
+#Q.11 to find a number is palindrone or not
 num=int(input("Enter a number:-"))
 n=num
 rev=0

@@ -1,4 +1,4 @@
-#to print fibonaaci series
+#Q.12 to print fibonaaci series
 num=int(input("Enter term:-"))
 prev1=1
 prev2=0

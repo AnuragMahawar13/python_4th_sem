@@ -1,3 +1,4 @@
+#Q.1
 # print(5//2)for integer division.
 # print(5/2)for float division.
 

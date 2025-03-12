@@ -1,4 +1,4 @@
-#to find reverse of number
+#Q.10 To find reverse of number
 num=int(input("Enter a number:-"))
 res=0
 while(num>0):

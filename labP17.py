@@ -1,4 +1,4 @@
-#write a function to check palindrome or not
+#Q.17 write a function to check palindrome or not
 
 # def palindrome(n):
 #     rev=0

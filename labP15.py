@@ -1,4 +1,4 @@
-#to print all palindromes for a range between 500-100
+#Q.15 to print all palindromes for a range between 500-100
 for i in range(500,1001):
     n=i
     rev=0

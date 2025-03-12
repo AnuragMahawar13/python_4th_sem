@@ -1,4 +1,4 @@
-#to check even or odd
+#Q.4 To check even or odd
 num=int(input("Enter any number to check even or odd:-"))
 if(num%2==0):
     print("even number")

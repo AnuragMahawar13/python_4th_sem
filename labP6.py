@@ -1,4 +1,4 @@
-#to check prime or not
+#Q.6 To check prime or not
 num=int(input("Enter any number to check prime or not:-"))
 if(num<2):
     print("Invalid number")

@@ -1,4 +1,4 @@
-#to check number is armstrong or not
+#Q.14 to check number is armstrong or not
 num=int(input("Enter a number:-"))
 n=num
 digit=0

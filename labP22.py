@@ -1,4 +1,4 @@
-#to create a list by concatenating a given list with a range from 1 to n
+#Q.22 To create a list by concatenating a given list with a range from 1 to n
 list_1=['p','q']
 num=int(input("Enter a number"))
 output_list=[]

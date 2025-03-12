@@ -1,4 +1,4 @@
-#(d)printing n terms of a fibonacci
+#Q.18(d)printing n terms of a fibonacci
 def fibo(n):
     if(n<1):
         print("Enter a positive term")

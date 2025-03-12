@@ -1,4 +1,4 @@
-#(c)printing factorial of a number using recursion
+#Q.18(c)printing factorial of a number using recursion
 def fact(num):
     if(num==1):
         return 1
