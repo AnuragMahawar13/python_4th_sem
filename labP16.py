@@ -30,8 +30,8 @@ print()
 #pascal's triangle
 for row in range(1,9):
     ans=1
-    if(i==1):
-        print(1)
+    if(row==1):
+        print(1,end=" ")
     else:
         print(1,end=" ")
     for col in range(1,row):
