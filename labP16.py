@@ -1,4 +1,4 @@
-#Q.18 to print the following pattern
+#Q.16 to print the following pattern
 # *
 # **
 # ***
