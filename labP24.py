@@ -6,7 +6,7 @@ row_1=len(matrix_1)
 row_2=len(matrix_2)
 col_1=len(matrix_1[0])
 col_2=len(matrix_2[0])
-if(row_1 != row_2 and col_1!=col_2):
+if(row_1 != row_2 or col_1!=col_2):
     print("these matrices can not be added")
 else:
     for i in range(0,row_1):

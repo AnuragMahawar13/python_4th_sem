@@ -9,6 +9,7 @@ n=num
 curr=0
 while(n>0):
     curr=curr+((n%10)**digit)
+    n=n//10
 if(num==curr):
     print("true")
 else:
